@@ -10,7 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>site_web</artifactId>
+    <artifactId>site_manage</artifactId>
 
 
 </project>

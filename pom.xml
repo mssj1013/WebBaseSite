@@ -20,9 +20,8 @@
 
 	<modules>
 		<!--<module>site_base</module>--><!-- 平台基础功能 -->
-		<module>site_web</module>
 		<module>site_web</module><!-- 平台网站 -->
-		<!--<module>site_manage</module>--><!-- 平台管理 -->
+		<module>site_manage</module><!-- 平台后台 -->
 	</modules>
 
 	<properties>
